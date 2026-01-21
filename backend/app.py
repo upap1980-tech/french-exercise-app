@@ -7,10 +7,7 @@ import requests
 import json
 from datetime import datetime
 import base64
-from PIL import Image
-from io import BytesIO
-
-load_dotenv()
+oad_dotenv()
 
 app = Flask(__name__)
 app.config['SQLALCHEMY_DATABASE_URI'] = os.getenv('DATABASE_URL', 'sqlite:///database.db')
