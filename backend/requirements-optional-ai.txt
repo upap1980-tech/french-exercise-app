@@ -1,0 +1,11 @@
+# Optional open-source AI stack (best-effort)
+# These packages are not required for core startup.
+diffusers==0.33.1
+transformers==4.52.3
+accelerate==1.8.1
+faster-whisper==1.1.1
+openai-whisper==20240930
+paddleocr==2.8.1
+guardrails-ai==0.6.7
+instructor==1.11.3
+deepeval==2.8.7

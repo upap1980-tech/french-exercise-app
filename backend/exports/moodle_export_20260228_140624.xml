@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<question type="category"><category><text>$course$/FrenchExerciseApp</text></category></question>
+<question type="shortanswer">
+<name><text>Biblioteca - Fill Blank #1</text></name>
+<questiontext format="html"><text><![CDATA[Je vois un ______ dans le ciel.]]></text></questiontext>
+<answer fraction="100">
+<text>oiseau</text>
+</answer>
+</question>
+<question type="shortanswer">
+<name><text>Biblioteca - Fill Blank #2</text></name>
+<questiontext format="html"><text><![CDATA[Le chat est de couleur ______.]]></text></questiontext>
+<answer fraction="100">
+<text>noir</text>
+</answer>
+</question>
+<question type="shortanswer">
+<name><text>Biblioteca - Fill Blank #3</text></name>
+<questiontext format="html"><text><![CDATA[Nous mangeons une ______ rouge.]]></text></questiontext>
+<answer fraction="100">
+<text>pomme</text>
+</answer>
+</question>
+<question type="shortanswer">
+<name><text>Biblioteca - Fill Blank #4</text></name>
+<questiontext format="html"><text><![CDATA[À l’école, j’écris avec un ______.]]></text></questiontext>
+<answer fraction="100">
+<text>stylo</text>
+</answer>
+</question>
+<question type="shortanswer">
+<name><text>Biblioteca - Fill Blank #5</text></name>
+<questiontext format="html"><text><![CDATA[Je porte un ______ quand il fait froid.]]></text></questiontext>
+<answer fraction="100">
+<text>pull</text>
+</answer>
+</question>
+<question type="shortanswer">
+<name><text>Biblioteca - Fill Blank #6</text></name>
+<questiontext format="html"><text><![CDATA[Le soleil est ______ dans le dessin.]]></text></questiontext>
+<answer fraction="100">
+<text>jaune</text>
+</answer>
+</question>
+</quiz>

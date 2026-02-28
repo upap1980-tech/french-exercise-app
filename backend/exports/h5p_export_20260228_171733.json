@@ -1,0 +1,24 @@
+{
+  "tool": "FrenchExerciseApp",
+  "version": 1,
+  "activities": [
+    {
+      "title": "Biblioteca - Fill Blank",
+      "activity_type": "fill_blank",
+      "items": [
+        {
+          "question": "Pregunta de prueba",
+          "correct_answer": "x",
+          "options": [
+            "x",
+            "option 2",
+            "option 3"
+          ],
+          "hint": "",
+          "emoji": "📝"
+        }
+      ],
+      "include_answers": true
+    }
+  ]
+}

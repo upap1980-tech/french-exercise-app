@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<question type="category"><category><text>$course$/FrenchExerciseApp</text></category></question>
+<question type="shortanswer">
+<name><text>Biblioteca - Fill Blank #1</text></name>
+<questiontext format="html"><text><![CDATA[Pregunta de prueba]]></text></questiontext>
+<answer fraction="100">
+<text>x</text>
+</answer>
+</question>
+</quiz>

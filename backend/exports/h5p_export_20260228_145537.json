@@ -1,0 +1,79 @@
+{
+  "tool": "FrenchExerciseApp",
+  "version": 1,
+  "activities": [
+    {
+      "title": "Biblioteca - Fill Blank",
+      "activity_type": "fill_blank",
+      "items": [
+        {
+          "question": "Je vois un ______ dans le ciel.",
+          "correct_answer": "oiseau",
+          "options": [
+            "oiseau",
+            "chat",
+            "table"
+          ],
+          "hint": "animal qui vole",
+          "emoji": "🐦"
+        },
+        {
+          "question": "Le chat est de couleur ______.",
+          "correct_answer": "noir",
+          "options": [
+            "noir",
+            "bleu",
+            "orange"
+          ],
+          "hint": "couleur sombre",
+          "emoji": "🐈"
+        },
+        {
+          "question": "Nous mangeons une ______ rouge.",
+          "correct_answer": "pomme",
+          "options": [
+            "pomme",
+            "jupe",
+            "voiture"
+          ],
+          "hint": "fruit",
+          "emoji": "🍎"
+        },
+        {
+          "question": "À l’école, j’écris avec un ______.",
+          "correct_answer": "stylo",
+          "options": [
+            "stylo",
+            "banane",
+            "chaussure"
+          ],
+          "hint": "objet de classe",
+          "emoji": "✏️"
+        },
+        {
+          "question": "Je porte un ______ quand il fait froid.",
+          "correct_answer": "pull",
+          "options": [
+            "pull",
+            "sandale",
+            "chapeau"
+          ],
+          "hint": "vêtement chaud",
+          "emoji": "🧥"
+        },
+        {
+          "question": "Le soleil est ______ dans le dessin.",
+          "correct_answer": "jaune",
+          "options": [
+            "jaune",
+            "gris",
+            "noir"
+          ],
+          "hint": "couleur du soleil",
+          "emoji": "☀️"
+        }
+      ],
+      "include_answers": true
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+%PDF-1.4
+1 0 obj << /Type /Catalog /Pages 2 0 R >> endobj
+2 0 obj << /Type /Pages /Kids [3 0 R] /Count 1 >> endobj
+3 0 obj << /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >> endobj
+4 0 obj << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> endobj
+5 0 obj << /Length 4960 >> stream
+BT /F1 12 Tf 50 790 Td (Partes de la casa  - Color Match) Tj ET
+BT /F1 10 Tf 50 770 Td ({) Tj ET
+BT /F1 10 Tf 50 756 Td (  "id": 27,) Tj ET
+BT /F1 10 Tf 50 742 Td (  "title": "Partes de la casa  - Color Match",) Tj ET
+BT /F1 10 Tf 50 728 Td (  "topic": "partes de la casa ",) Tj ET
+BT /F1 10 Tf 50 714 Td (  "level": "A2",) Tj ET
+BT /F1 10 Tf 50 700 Td (  "exercise_type": "color_match",) Tj ET
+BT /F1 10 Tf 50 686 Td (  "content": {) Tj ET
+BT /F1 10 Tf 50 672 Td (    "title": "Fiche coloriage - Parties de la maison",) Tj ET
+BT /F1 10 Tf 50 658 Td (    "activity_type": "color_match",) Tj ET
+BT /F1 10 Tf 50 644 Td (    "items": [) Tj ET
+BT /F1 10 Tf 50 630 Td (      {) Tj ET
+BT /F1 10 Tf 50 616 Td (        "word": "cuisine",) Tj ET
+BT /F1 10 Tf 50 602 Td (        "color_label": "cuisine",) Tj ET
+BT /F1 10 Tf 50 588 Td (        "color_hex": "#1d4ed8") Tj ET
+BT /F1 10 Tf 50 574 Td (      },) Tj ET
+BT /F1 10 Tf 50 560 Td (      {) Tj ET
+BT /F1 10 Tf 50 546 Td (        "word": "chambre",) Tj ET
+BT /F1 10 Tf 50 532 Td (        "color_label": "chambre",) Tj ET
+BT /F1 10 Tf 50 518 Td (        "color_hex": "#ef4444") Tj ET
+BT /F1 10 Tf 50 504 Td (      },) Tj ET
+BT /F1 10 Tf 50 490 Td (      {) Tj ET
+BT /F1 10 Tf 50 476 Td (        "word": "salon",) Tj ET
+BT /F1 10 Tf 50 462 Td (        "color_label": "salon",) Tj ET
+BT /F1 10 Tf 50 448 Td (        "color_hex": "#22c55e") Tj ET
+BT /F1 10 Tf 50 434 Td (      },) Tj ET
+BT /F1 10 Tf 50 420 Td (      {) Tj ET
+BT /F1 10 Tf 50 406 Td (        "word": "jardin",) Tj ET
+BT /F1 10 Tf 50 392 Td (        "color_label": "jardin",) Tj ET
+BT /F1 10 Tf 50 378 Td (        "color_hex": "#f59e0b") Tj ET
+BT /F1 10 Tf 50 364 Td (      },) Tj ET
+BT /F1 10 Tf 50 350 Td (      {) Tj ET
+BT /F1 10 Tf 50 336 Td (        "word": "bain",) Tj ET
+BT /F1 10 Tf 50 322 Td (        "color_label": "bain",) Tj ET
+BT /F1 10 Tf 50 308 Td (        "color_hex": "#a855f7") Tj ET
+BT /F1 10 Tf 50 294 Td (      },) Tj ET
+BT /F1 10 Tf 50 280 Td (      {) Tj ET
+BT /F1 10 Tf 50 266 Td (        "word": "garage",) Tj ET
+BT /F1 10 Tf 50 252 Td (        "color_label": "garage",) Tj ET
+BT /F1 10 Tf 50 238 Td (        "color_hex": "#06b6d4") Tj ET
+BT /F1 10 Tf 50 224 Td (      },) Tj ET
+BT /F1 10 Tf 50 210 Td (      {) Tj ET
+BT /F1 10 Tf 50 196 Td (        "word": "entr?e",) Tj ET
+BT /F1 10 Tf 50 182 Td (        "color_label": "entr?e",) Tj ET
+BT /F1 10 Tf 50 168 Td (        "color_hex": "#f97316") Tj ET
+BT /F1 10 Tf 50 154 Td (      }) Tj ET
+BT /F1 10 Tf 50 140 Td (    ],) Tj ET
+BT /F1 10 Tf 50 126 Td (    "image_url": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%20viewBox%3D%270%200%201200%20630%27%3E%0A%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%0A%3Cstop%20offset%3D%270%25%27%20stop-color%3D%27%231d4ed8%27/%3E%3Cstop%20offset%3D%27100%25%27%20stop-color%3D%27%230ea5e9%27/%3E%3C/linearGradient%3E%3C/defs%3E%0A%3Crect%20width%3D%271200%27%20height%3D%27630%27%20fill%3D%27url%28%23g%29%27/%3E%0A%3Crect%20x%3D%2748%27%20y%3D%2748%27%20width%3D%271104%27%20height%3D%27534%27%20rx%3D%2724%27%20fill%3D%27rgba%28255%2C255%2C255%2C0.12%29%27/%3E%0A%3Ctext%20x%3D%2780%27%20y%3D%27180%27%20fill%3D%27white%27%20font-size%3D%2744%27%20font-family%3D%27Arial%2C%20sans-serif%27%3EFrench%20Exercise%20App%3C/text%3E%0A%3Ctext%20x%3D%2780%27%20y%3D%27260%27%20fill%3D%27white%27%20font-size%3D%2768%27%20font-family%3D%27Arial%2C%20sans-serif%27%3Epartes%20de%20la%20casa%3C/text%3E%0A%3Ctext%20x%3D%2780%27%20y%3D%27330%27%20fill%3D%27white%27%20font-size%3D%2734%27%20font-family%3D%27Arial%2C%20sans-serif%27%3EType%3A%20exercise%3C/text%3E%0A%3C/svg%3E") Tj ET
+BT /F1 10 Tf 50 112 Td (  },) Tj ET
+BT /F1 10 Tf 50 98 Td (  "image_url": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%20viewBox%3D%270%200%201200%20630%27%3E%0A%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%0A%3Cstop%20offset%3D%270%25%27%20stop-color%3D%27%231d4ed8%27/%3E%3Cstop%20offset%3D%27100%25%27%20stop-color%3D%27%230ea5e9%27/%3E%3C/linearGradient%3E%3C/defs%3E%0A%3Crect%20width%3D%271200%27%20height%3D%27630%27%20fill%3D%27url%28%23g%29%27/%3E%0A%3Crect%20x%3D%2748%27%20y%3D%2748%27%20width%3D%271104%27%20height%3D%27534%27%20rx%3D%2724%27%20fill%3D%27rgba%28255%2C255%2C255%2C0.12%29%27/%3E%0A%3Ctext%20x%3D%2780%27%20y%3D%27180%27%20fill%3D%27white%27%20font-size%3D%2744%27%20font-family%3D%27Arial%2C%20sans-serif%27%3EFrench%20Exercise%20App%3C/text%3E%0A%3Ctext%20x%3D%2780%27%20y%3D%27260%27%20fill%3D%27white%27%20font-size%3D%2768%27%20font-family%3D%27Arial%2C%20sans-serif%27%3Epartes%20de%20la%20casa%3C/text%3E%0A%3Ctext%20x%3D%2780%27%20y%3D%27330%27%20fill%3D%27white%27%20font-size%3D%2734%27%20font-family%3D%27Arial%2C%20sans-serif%27%3EType%3A%20exercise%3C/text%3E%0A%3C/svg%3E",) Tj ET
+BT /F1 10 Tf 50 84 Td (  "ai_model": "perplexity",) Tj ET
+endstream endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000000311 00000 n 
+trailer << /Size 6 /Root 1 0 R >>
+startxref
+5323
+%%EOF
